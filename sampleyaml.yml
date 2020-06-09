@@ -1,9 +1,11 @@
 ---
--Id:'1'
-FirstName:Mario
-LastName:Krbot
-Email:krbotmario@gmail
--Id:'2'
-FirstName:Oiram
-LastName:Krbot
-Email:oirammario@gmail
+people:
+-Id:1
+  FirstName:Mario
+  LastName:Krbot
+  Email:krbotmario@gmail
+-Id:2
+  FirstName:Oiram
+  LastName:Krbot
+  Email:oirammario@gmail
+--- # This is start of a new document in YAML
