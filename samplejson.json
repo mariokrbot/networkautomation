@@ -1,12 +1,12 @@
 [
 {
-"Id":"1",
+"Id":1,
 "FirstName":"Mario",
 "LastName":"Krbot",
 "Email":"krbotmario@gmail"
 },
 {
-"Id":"2",
+"Id":2,
 "FirstName":"Oiram",
 "LastName":"Krbot",
 "Email":"oirammario@gmail"
