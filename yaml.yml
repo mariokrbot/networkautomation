@@ -1,0 +1,7 @@
+---
+ANumber: 145
+AFloat: 19.8075
+AString: Hello there Ben!\n
+AQoutedString: "Quotes ae prefectly acceptable.\n This is new line"
+Active: True
+...
