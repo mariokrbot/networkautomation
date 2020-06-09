@@ -15,3 +15,4 @@ def revive(self):
       self.health = 10
 
 revive(Player)
+print("Test test test")
