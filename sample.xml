@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<People>
+  <Person Id="1">
+   <FirstName>Mario</FirstName>
+   <LastName>Krbot</LastName>
+   <Email>krbotmario@gmail.com</Email>
+  </Person>
+  <Person Id="2">
+   <FirstName>Oiram</FirstName>
+   <LastName>Krbot</LastName>
+   <Email>oirammario@gmail.com</Email>
+  </Person>
+</People>
